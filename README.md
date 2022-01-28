@@ -11,15 +11,15 @@
 ## Algorithm 문제집
 |<center>NO|<center>Workbooks|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
-|01|[<center>바로가기](https://www.acmicpc.net/problem/2606)|String||
-|02|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Greedy||
-|03|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)|Brute Force||
+|01|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/String)|String||
+|02|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Greedy)|Greedy||
+|03|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Brute%20Force)|Brute Force||
 |04|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Binary%20Search)|Binary Search||
 |05|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Graph%20Search)|Graph search||
-|06|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Shortest Path||
+|06|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Shortest%20Path)|Shortest Path||
 |07|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Prefix%20Sum)|Prefix Sum||
-|08|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Dynamic Programming||
-|09|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Disjoint Set||
+|08|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Dynamic%20Programming)|Dynamic Programming||
+|09|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Disjoint%20Set)|Disjoint Set||
 |10|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Minimum%20Spanning%20Tree(MST))|Minimum Spanning Tree(MST)||
 
 
