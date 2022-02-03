@@ -15,7 +15,7 @@
 |10|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Minimum Spanning Tree(MST)||
 
 
-## Contributors
+### Contributors
 
 
 <table>
@@ -23,7 +23,7 @@
         <td align="center" width="130px">
             <a href="https://github.com/Kimsunghyunny"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/22141977?v=4"/></a>
             <br />
-            <a href="https://github.com/tony9402">tony9402</a>
+            <a href="https://github.com/Kimsunghyunn">tony9402</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/henn36"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/50240552?v=4"/></a>
