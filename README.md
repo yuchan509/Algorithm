@@ -23,17 +23,17 @@
         <td align="center" width="130px">
             <a href="https://github.com/Kimsunghyunny"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/22141977?v=4"/></a>
             <br />
-            <a href="https://github.com/Kimsunghyunn">tony9402</a>
+            <a href="https://github.com/Kimsunghyunny">Kimsunghyunny</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/henn36"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/50240552?v=4"/></a>
             <br />
-            <a href="https://github.com/henn36">VSFe</a>
+            <a href="https://github.com/henn36">henn36</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/gihye0395"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/38374463?v=4"/></a>
             <br />
-            <a href="https://github.com/gihye0395">kim1109123</a>
+            <a href="https://github.com/gihye0395">gihye0395</a>
         </td>
     </tr>
 </table>
