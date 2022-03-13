@@ -2,7 +2,7 @@
 algorithm
 
 
-###### loop
+### loop
 
 ```python
 from koeda import EasyDataAugmentation
