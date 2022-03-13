@@ -2,12 +2,17 @@
 algorithm
 
 
-### loop
-
+#### loop
 ```python
-from koeda import EasyDataAugmentation
-EDA = EasyDataAugmentation(
-    morpheme_analyzer=None, alpha_sr=0.1, alpha_ri=0.1, alpha_rs=0.1, prob_rd=0.1
-)
+# ex1
+sum = 0 
+for i in range(1, 11):
+    sum += i
+    
+# ex2
+sum = sum(i for i in range(1, 11))
+
+# ex3
+sum = sum(range(1, 11))    
 
 ```
