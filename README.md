@@ -29,6 +29,16 @@ def are_equal(a: T, b: U) -> bool:
     return a == b
 
 are_equal(10, 10.0)
+
+# Type hint
+
+# 아래와 같은 형태로 명시적으로 선언함으로써 가독성을 향상시키고 버그 발생 확률을 줄일 수 있다. 단, version 3.5부터 사용이 가능.
+a : str = "1"
+b : int = 1
+
+def fn(a : int) -> bool:
+
+pip install mypy -> 타입 힌트에 대한 오류 검정.
 ```
 
 #### Array
@@ -37,5 +47,14 @@ foo = ['A', 'B', 'C']
 for f in foo :
     print(f)
 ```
+
+
+#### List Comprehension
+```python
+list(map(lambda x: x + 10, [1,2,3]))
+
+
+```
+
 
 
