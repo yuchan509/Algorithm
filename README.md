@@ -51,7 +51,7 @@ for f in foo :
 
 #### List Comprehension
 ```python
-list(map(lambda x: x + 10, [1,2,3]))
+list(map(lambda x: x + 10, [1, 2, 3]))
 
 
 ```
