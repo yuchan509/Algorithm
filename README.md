@@ -4,11 +4,11 @@
 <br>
 |<center>Problem|<center>Link|<center>Solution|<center>Memo|
 |---|---|---|---|
-|<center>DFS와 BFS|[<center>Link](http://boj.kr/1260)|[<center>Link]|
-|<center>단지번호붙이기|[<center>Link](http://boj.kr/2667)||[<center>Link]|
-|<center>유기농 배추|[<center>Link](http://boj.kr/1012)||[<center>Link]|
-|<center>연결 요소의 개수|[<center>Link](http://boj.kr/11724)||[<center>Link]|
-|<center>연구소|[<center>Link](http://boj.kr/14502)||[<center>Link]|
+|<center>DFS와 BFS|[<center>Link](http://boj.kr/1260)|[<center>Link]|[<center>Link]|
+|<center>단지번호붙이기|[<center>Link](http://boj.kr/2667)|[<center>Link]|[<center>Link]|
+|<center>유기농 배추|[<center>Link](http://boj.kr/1012)|[<center>Link]|[<center>Link]|
+|<center>연결 요소의 개수|[<center>Link](http://boj.kr/11724)|[<center>Link]|[<center>Link]|
+|<center>연구소|[<center>Link](http://boj.kr/14502)|[<center>Link]|[<center>Link]|
 
 
     
