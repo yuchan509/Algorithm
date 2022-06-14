@@ -1,7 +1,4 @@
 # Algorithm
-## Python 문법
-
-
 
 ## GraphSearch - 그래프탐색
 <br>
@@ -10,13 +7,11 @@
 |---|---|---|---|
 |<center>DFS와 BFS|[<center>링크](http://boj.kr/1260)|[<center>링크]|
 |<center>단지번호붙이기|[<center>링크](http://boj.kr/2667)|[<center>링크]|
-|<center>물통|[<center>링크](http://boj.kr/2251)|[<center>링크]|
-|<center>연구소|[<center>링크](http://boj.kr/14502)||[<center>링크]|
 |<center>유기농 배추|[<center>링크](http://boj.kr/1012)|[<center>링크]|
 |<center>연결 요소의 개수|[<center>링크](http://boj.kr/11724)|[<center>링크]|
+|<center>연구소|[<center>링크](http://boj.kr/14502)||[<center>링크]|
 
-
-
+## Python 문법
 
 #### Loop
 ```python
