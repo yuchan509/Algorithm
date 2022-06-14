@@ -3,7 +3,7 @@
 ## GraphSearch - 그래프탐색
 <br>
 
-|<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
+|<center>Problem|<center>Link|<center>Solution|<center>Memo|
 |---|---|---|---|
 |<center>DFS와 BFS|[<center>링크](http://boj.kr/1260)|[<center>링크]|
 |<center>단지번호붙이기|[<center>링크](http://boj.kr/2667)|[<center>링크]|
