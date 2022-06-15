@@ -3,7 +3,6 @@
 ## Algorithm 문제집
 |<center>NO|<center>Workbooks|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
- 
 |01|[<center>바로가기](https://www.acmicpc.net/problem/2606)|String||
 |02|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)|Brute Force||
 |03|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Binary Search||
