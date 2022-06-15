@@ -1,5 +1,7 @@
 # Algorithm
 
+01. [GraphSearch(그래프탐색)](#1-graphsearch---그래프탐색)
+
 ## GraphSearch - 그래프탐색
 <br>
 
