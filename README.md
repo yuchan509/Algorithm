@@ -1,6 +1,6 @@
 # Algorithm 
 
-## Algorithm Workbook
+## Algorithm 
 |<center>NO|<center>Problems|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
 |01|[<center>Link](https://programmers.co.kr/learn/courses/30/lessons/43162)||
