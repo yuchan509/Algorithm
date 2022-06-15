@@ -7,10 +7,10 @@
 
 |<center>NO|<center>Problems|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|
-|01|[<center>Link](https://programmers.co.kr/learn/courses/30/lessons/43162)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)||
-|02|[<center>Link](https://www.acmicpc.net/problem/2606)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)||
-|03|[<center>Link](https://www.acmicpc.net/problem/16234)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)||
-|04|[<center>Link](https://www.acmicpc.net/problem/1939)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%A4%91%EB%9F%89%20%EC%A0%9C%ED%95%9C.py)||
+|01|[<center>Link](https://programmers.co.kr/learn/courses/30/lessons/43162)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|
+|02|[<center>Link](https://www.acmicpc.net/problem/2606)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)|
+|03|[<center>Link](https://www.acmicpc.net/problem/16234)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)|
+|04|[<center>Link](https://www.acmicpc.net/problem/1939)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%A4%91%EB%9F%89%20%EC%A0%9C%ED%95%9C.py)|
     
     
 
