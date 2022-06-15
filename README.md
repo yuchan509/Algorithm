@@ -1,7 +1,7 @@
 # Algorithm 
 
 ## Algorithm 문제집
-|<center>NO|<center>Problems|<center>Tag|<center>Explanation|
+|<center>NO|<center>Workbooks|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
 |01|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)||
 |02|[<center>바로가기](https://www.acmicpc.net/problem/2606)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)|
