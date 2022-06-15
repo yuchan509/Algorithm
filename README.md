@@ -4,13 +4,17 @@
 |<center>NO|<center>Workbooks|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
 |01|[<center>바로가기](https://www.acmicpc.net/problem/2606)|String||
+|10|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Greedy||
 |02|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)|Brute Force||
 |03|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Binary Search||
 |04|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Graph search||
-|05|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Prefix Sum||
-|06|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Dynamic Programming||
-|07|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Two Pointer||
-    
+|05|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Shortest Path||
+|06|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Prefix Sum||
+|07|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Dynamic Programming||
+|08|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Disjoint Set||
+|09|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Minimum Spanning Tree(MST)||
+
+
 
 ## Python 문법
 
