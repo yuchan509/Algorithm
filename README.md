@@ -9,7 +9,7 @@
 
 |<center>Problem|<center>Link|<center>Solution|<center>Memo|
 |---|---|---|---|
-|<center>DFS와 BFS|<center>Link|<center>Link||
+|<center>네트워크|<center>Link(https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|<center>Link||
 |테스트1|<center>Link|<center>Link||
 |테스트1|<center>Link|<center>Link||
     
