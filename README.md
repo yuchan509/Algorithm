@@ -4,7 +4,7 @@
 <br>
 |<center>Problem|<center>Link|<center>Solution|<center>Memo|
 |---|---|---|---|
-|<center>DFS와 BFS| [<center>Link](http://boj.kr/1260) | [<center>Link] | [<center>Link]|
+|<center>DFS와 BFS|  | | |
 
 
 
