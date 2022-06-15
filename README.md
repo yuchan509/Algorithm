@@ -3,8 +3,8 @@
 ## Algorithm 문제집
 |<center>NO|<center>Workbooks|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
-|01|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)||
-|02|[<center>바로가기](https://www.acmicpc.net/problem/2606)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)|
+|01|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)|Brute Force||
+|02|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Graph search||
 |03|[<center>바로가기](https://www.acmicpc.net/problem/16234)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)|
 |04|[<center>바로가기](https://www.acmicpc.net/problem/1939)|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%A4%91%EB%9F%89%20%EC%A0%9C%ED%95%9C.py)|
     
