@@ -2,7 +2,7 @@
 
 01. [GraphSearch(그래프탐색)](#1-graphsearch---그래프탐색)
 
-## GraphSearch - 그래프탐색
+## 01. GraphSearch - 그래프탐색
 <br>
 
 |<center>Problem|<center>Link|<center>Solution|<center>Memo|
