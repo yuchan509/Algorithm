@@ -4,13 +4,13 @@
 |<center>NO|<center>Workbooks|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
  
-|01|[<center>바로가기](https://www.acmicpc.net/problem/2606)|String|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)|
+|01|[<center>바로가기](https://www.acmicpc.net/problem/2606)|String||
 |02|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)|Brute Force||
-|03|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Binary Search|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%A4%91%EB%9F%89%20%EC%A0%9C%ED%95%9C.py)|
+|03|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Binary Search||
 |04|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Graph search||
-|05|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Prefix Sum|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)|
-|06|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Dynamic Programming|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)|
-|07|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Two Pointer|[<center>Link](https://github.com/yuchan509/Coding-Test-Study/blob/main/Coding%20Test%20-%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)|
+|05|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Prefix Sum||
+|06|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Dynamic Programming||
+|07|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Two Pointer||
     
 
 ## Python 문법
