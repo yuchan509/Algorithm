@@ -2,16 +2,16 @@
 
 ## GraphSearch - 그래프탐색
 <br>
-|<center>Problem|<center>Link|<center>Solution|<center>Memo|
-|---|---|---|---|
+|||||
+
 |<center>DFS와 BFS| ㅁ | ㅁ| |
 
 
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|<center>Problem|<center>Link|<center>Solution|<center>Memo|
+|---|---|---|---|
+|<center>DFS와 BFS|<center>Link|<center>Link||
+|테스트1|<center>Link|<center>Link||
+|테스트1|<center>Link|<center>Link||
     
     
 
