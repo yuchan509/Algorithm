@@ -1,9 +1,5 @@
 # Algorithm
 
-01. [GraphSearch (그래프 탐색)](#1-graphsearch---BFS/DFS)
-
-## 01. GraphSearch - BFS/DFS
-<br>
 
 |<center>NO|<center>Problems|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
