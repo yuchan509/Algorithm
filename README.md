@@ -3,10 +3,10 @@
 ## Algorithm 문제집
 |<center>NO|<center>Workbooks|<center>Tag|<center>Explanation|
 |:---:|:---:|:---:|:---:|
-|01|[<center>바로가기(./Algorithm/tree/main/Binary%20Search)](https://www.acmicpc.net/problem/2606)|String||
+|01|[<center>바로가기](https://www.acmicpc.net/problem/2606)|String||
 |02|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Greedy||
 |03|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)|Brute Force||
-|04|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Binary Search||
+|04|[<center>바로가기](./tree/main/Binary%20Search)|Binary Search||
 |05|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Graph search||
 |06|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Shortest Path||
 |07|[<center>바로가기](https://www.acmicpc.net/problem/2606)|Prefix Sum||
