@@ -3,7 +3,7 @@
 ## Binary Search
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[<center>바로가기](https://www.acmicpc.net/problem/2606)|||
+|01|[<center>입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|||
 |02|[<center>바로가기](https://www.acmicpc.net/problem/2606)|||
 |03|[<center>바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162)|||
 |04|[<center>바로가기](https://www.acmicpc.net/problem/2606)|||
