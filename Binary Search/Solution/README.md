@@ -1,0 +1,4 @@
+# Algorithm 
+
+## Binary Search Solutions
+
