@@ -37,6 +37,8 @@
         </td>
     </tr>
 </table>
+    
+    
 ## Python 문법
 
 #### Loop
