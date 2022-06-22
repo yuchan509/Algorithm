@@ -1,6 +1,6 @@
 # Algorithm 
 
-## Binary Search
+## Graph Search
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
 |01|[<center>바로가기](https://www.acmicpc.net/problem/2606)|||
