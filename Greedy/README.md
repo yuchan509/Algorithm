@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|:---:|
 |01|[<center>ATM](https://www.acmicpc.net/problem/11399)|[<center>바로가기](./Solution/ATM)||
 
-<br/>
+
 
 ## Greedy Algorithm 
 #### 개념
