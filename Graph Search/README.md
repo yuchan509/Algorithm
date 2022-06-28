@@ -15,7 +15,7 @@
 |09|[<center>벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[<center>바로가기](./Solution/벽%20부수고%20이동하기)|3D Array 방문 처리|
 |10|[<center>미로 탐색](https://www.acmicpc.net/problem/2178)|[<center>바로가기](./Solution/미로%20탐색)||
 |11|[<center>경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[<center>바로가기](./Solution/경주로%20건설)|Coner 처리|
-|12|[<center>Count Luck](https://www.hackerrank.com/challenges/count-luck/problem)|[<center>바로가기]|Coner 처리 응용|
+|12|[<center>Count Luck](https://www.hackerrank.com/challenges/count-luck/problem)|[<center>바로가기](./Solution/Count%20Luck)|Coner 처리 응용|
 |13|[<center>네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[<center>바로가기](./Solution/네트워크)|연결 노드 찾기|
 |14|[<center>연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[<center>바로가기](./Solution/연결%20요소의%20개수)|연결 노드 찾기|
 |15|[<center>안전 영역](https://www.acmicpc.net/problem/2468)|[<center>바로가기](./Solution/안전%20영역)|Flood Fill|
