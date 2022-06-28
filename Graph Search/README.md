@@ -12,7 +12,7 @@
 |06|[<center>양](https://www.acmicpc.net/problem/3184)|[<center>바로가기](./Solution/양)||
 |07|[<center>공주님을 구해라](https://www.acmicpc.net/problem/17836)|[<center>바로가기](./Solution/공주님을%20구해라)|BFS + 조건 만족시 좌표값 거리 계산|
 |08|[<center>중량 제한](https://www.acmicpc.net/problem/1939)|[<center>바로가기](./Solution/중량%20제한)|BFS + Binary or MST|
-|09|[<center>벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[<center>바로가기](./Solution/벽%20부수고%20이동하기)|3D Array 방문 처리|
+|09|[<center>벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[<center>바로가기](./Solution/벽%20부수고%20이동하기)|3D Array 방문 처리 |
 |10|[<center>미로 탐색](https://www.acmicpc.net/problem/2178)|[<center>바로가기](./Solution/미로%20탐색)||
 |11|[<center>경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[<center>바로가기](./Solution/경주로%20건설)|Coner 처리|
 |12|[<center>Count Luck](https://www.hackerrank.com/challenges/count-luck/problem)|[<center>바로가기](./Solution/Count%20Luck)|Coner 처리 응용|
