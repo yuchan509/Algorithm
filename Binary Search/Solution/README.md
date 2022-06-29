@@ -1,4 +1,3 @@
 # Algorithm 
-
 ## Binary Search Solutions
 
