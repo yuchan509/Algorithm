@@ -3,7 +3,7 @@
 ## Heap
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[<center>ATM](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[<center>πŸ∑Œ∞°±‚](./Solution/¥ı%20∏ ∞‘)||
+|01|[<center>Îçî ÎßµÍ≤å](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[<center>Î∞îÎ°úÍ∞ÄÍ∏∞](./Solution/Îçî%20ÎßµÍ≤å)||
 
 
 
