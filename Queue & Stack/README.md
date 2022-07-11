@@ -1,5 +1,4 @@
 # Algorithm 
-
 ## Queue & Stack
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
