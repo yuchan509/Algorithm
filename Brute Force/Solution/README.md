@@ -1,0 +1,4 @@
+# Algrithm 
+
+## Brute Force Solutions
+
