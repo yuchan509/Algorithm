@@ -20,7 +20,8 @@
 |14|[<center>연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[<center>바로가기](./Solution/연결%20요소의%20개수)|연결 노드 찾기|
 |15|[<center>안전 영역](https://www.acmicpc.net/problem/2468)|[<center>바로가기](./Solution/안전%20영역)|Flood Fill|
 |16|[<center>단지번호붙이기](https://www.acmicpc.net/problem/2667)|[<center>바로가기](./Solution/단지번호붙이기)|Flood Fill|
-
+|17|[<center>섬의 개수](https://www.acmicpc.net/problem/4963)|[<center>바로가기](./Solution/섬의%20개수)|대각선 체크|
+|18|[<center>거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[<center>바로가기](./Solution/거리두기%20확인하기)||
 
 ## Graph Algorithm
 #### 개념
