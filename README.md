@@ -31,7 +31,7 @@
 <table>
     <tr height="140px">
         <td align="center" width="130px">
-            <a href="https://github.com/yuchan509"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/22141977?v=4"/></a>
+            <a href="https://github.com/yuchan509"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/75283773?v=4"/></a>
             <br />
             <a href="https://github.com/yuchan509">Yuchan</a>
         </td>
