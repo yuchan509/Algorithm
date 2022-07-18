@@ -23,8 +23,8 @@
 |10|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Minimum%20Spanning%20Tree(MST))|Minimum Spanning Tree(MST)||
 |11|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Heap)|Heap||
 |12|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Queue%20&%20Stack)|Queue & Stack||
-|13|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Queue%20&%20Stack)|Bit||
-
+|13|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Bit)|Bit||
+|14|[<center>바로가기](https://github.com/yuchan509/Algorithm/tree/main/Implementation)|Implementation||
 ### Contributors
 
 
