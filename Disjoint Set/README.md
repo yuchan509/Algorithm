@@ -6,7 +6,6 @@
 |01|[<center>바이러스](https://www.acmicpc.net/problem/2606)|[<center>바로가기](./Solution/바이러스)||
 
 
-
 ## Disjoint Set (Union Find)
 - 두 집합(Set) 사이에 교집합 원소가 존재하지 않으며(공통으로 포함하는 원소가 없는 두 집합의 관계(서로소(Disjoint))), 모든 집합의 합집합은 전체집합인 자료구조.
 
