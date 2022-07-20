@@ -3,15 +3,15 @@
 ## Disjoint Set
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[<center>](https://programmers.co.kr/learn/courses/30/lessons/43238)|[<center>¹Ù·Î°¡±â](./Solution/)||
+|01|[<center>ë°”ì´ëŸ¬ìŠ¤](https://www.acmicpc.net/problem/2606)|[<center>ë°”ë¡œê°€ê¸°](./Solution/ë°”ì´ëŸ¬ìŠ¤)||
 
 
 
 ## Disjoint Set (Union Find)
-- µÎ ÁýÇÕ(Set) »çÀÌ¿¡ ±³ÁýÇÕ ¿ø¼Ò°¡ Á¸ÀçÇÏÁö ¾ÊÀ¸¸ç(°øÅëÀ¸·Î Æ÷ÇÔÇÏ´Â ¿ø¼Ò°¡ ¾ø´Â µÎ ÁýÇÕÀÇ °ü°è(¼­·Î¼Ò(Disjoint))), ¸ðµç ÁýÇÕÀÇ ÇÕÁýÇÕÀº ÀüÃ¼ÁýÇÕÀÎ ÀÚ·á±¸Á¶.
+- ë‘ ì§‘í•©(Set) ì‚¬ì´ì— êµì§‘í•© ì›ì†Œê°€ ì¡´ìž¬í•˜ì§€ ì•Šìœ¼ë©°(ê³µí†µìœ¼ë¡œ í¬í•¨í•˜ëŠ” ì›ì†Œê°€ ì—†ëŠ” ë‘ ì§‘í•©ì˜ ê´€ê³„(ì„œë¡œì†Œ(Disjoint))), ëª¨ë“  ì§‘í•©ì˜ í•©ì§‘í•©ì€ ì „ì²´ì§‘í•©ì¸ ìžë£Œêµ¬ì¡°.
 
-    - **Find** : ÀÓÀÇÀÇ ¿ø¼Ò x°¡ ÁÖ¾îÁ³À» ¶§, ÀÌ ¿ø¼Ò°¡ ¼ÓÇÑ ÁýÇÕÀ» ¹ÝÈ¯.
-    - **Union** : µÎ ÁýÇÕÀ» ÇÏ³ªÀÇ ÁýÇÕÀ¸·Î ÇÕÄ¡´Â ¿¬»ê.
+    - **Find** : ìž„ì˜ì˜ ì›ì†Œ xê°€ ì£¼ì–´ì¡Œì„ ë•Œ, ì´ ì›ì†Œê°€ ì†í•œ ì§‘í•©ì„ ë°˜í™˜.
+    - **Union** : ë‘ ì§‘í•©ì„ í•˜ë‚˜ì˜ ì§‘í•©ìœ¼ë¡œ í•©ì¹˜ëŠ” ì—°ì‚°.
 
         ```python
         def find(x):
