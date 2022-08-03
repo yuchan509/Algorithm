@@ -9,7 +9,7 @@
 |04|[<center>등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|[<center>바로가기](./Solution/등산코스%20정하기)||
 |05|[<center>택배 배송](https://www.acmicpc.net/problem/5972)|[<center>바로가기](./Solution/택배%20배송)||
 |06|[<center>최소비용 구하기](https://www.acmicpc.net/problem/1916)|[<center>바로가기](./Solution/최소비용%20구하기)||
-
+|07|[<center>최단경로](https://www.acmicpc.net/problem/1753)|[<center>바로가기](./Solution/최단경로)||
 
 
 ## Dijkstra's algorithm
