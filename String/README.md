@@ -3,8 +3,7 @@
 ## String
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[<center>ë¬¸ìì—´ ì••ì¶•](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[<center>ë°”ë¡œê°€ê¸°](./Solution/ë¬¸ìì—´%20ì••ì¶•)||
-
-
+|01|[<center>¹®ÀÚ¿­ ¾ĞÃà](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[<center>¹Ù·Î°¡±â](./Solution/¹®ÀÚ¿­%20¾ĞÃà)||
+|02|[<center>ÀÒ¾î¹ö¸° °ıÈ£](https://www.acmicpc.net/problem/1541)|[<center>¹Ù·Î°¡±â](./Solution/ÀÒ¾î¹ö¸°%20°ıÈ£)||
 
 
