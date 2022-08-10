@@ -1,15 +1,14 @@
-import re
-
 def solution(record):
     
     ans = []
     update = {r.split()[1] : r.split()[-1] for r in record 
-             if re.match("Enter|Change", r.split()[0])}        
-    
+             if r.split()[0] in ["Enter", "Change"]}     
+
     for r in record:
         r = r.split()
         if r[0] == "Enter":
             ans.append(f"{update[r[1]]}님이 들어왔습니다.")
+
         if r[0] == "Leave":
             ans.append(f"{update[r[1]]}님이 나갔습니다.")
             
