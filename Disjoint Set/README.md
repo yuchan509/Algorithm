@@ -3,7 +3,7 @@
 ## Disjoint Set
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[<center>바이러스](https://www.acmicpc.net/problem/2606)|[<center>바로가기](./Solution/바이러스)||
+|01|[<center>바이러스](https://www.acmicpc.net/problem/2606)|[<center>바로가기](./Solution/바이러스)| |
 
 
 ## Disjoint Set (Union Find)
