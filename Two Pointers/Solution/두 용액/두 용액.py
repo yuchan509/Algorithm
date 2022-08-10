@@ -5,7 +5,7 @@ arr = list(map(int, input().split()))
 arr.sort()
 
 v = sys.maxsize
-ans = [0, n - 1]
+ans = [0] * 2
 start, end = 0, n - 1
 
 while start < end:
