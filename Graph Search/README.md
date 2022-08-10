@@ -24,6 +24,7 @@
 |18|[<center>거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[<center>바로가기](./Solution/거리두기%20확인하기)||
 |19|[<center>미로](https://www.acmicpc.net/problem/24463)|[<center>바로가기](./Solution/미로)|역탐색|
 |20|[<center>단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[<center>바로가기](./Solution/단어%20변환)|문자열 + BFS|
+|21|[<center>거울 설치](https://www.acmicpc.net/problem/2151)|[<center>바로가기](./Solution/거울%20설치)||
 
 ## Graph Algorithm
 #### 개념
