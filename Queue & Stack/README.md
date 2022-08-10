@@ -11,3 +11,4 @@
 |07|[<center>카드2](https://www.acmicpc.net/problem/2164)|[<center>바로가기](./Solution/카드2)||
 |08|[<center>스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|[<center>바로가기](./Solution/스킬트리)||
 |09|[<center>요세푸스 문제 0](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[<center>바로가기](./Solution/요세푸스%20문제%200)||
+|09|[<center>괄호의 값](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[<center>바로가기](./Solution/괄호의%20값)||
