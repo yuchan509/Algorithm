@@ -6,7 +6,7 @@
 |01|[<center>배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|[<center>바로가기](./Solution/배달)|  |
 |02|[<center>파티](https://www.acmicpc.net/problem/1238)|[<center>바로가기](./Solution/파티)||
 |03|[<center>Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem)|[<center>바로가기](./Solution/Find%20the%20nearest%20clone)||
-
+|04|[<center>등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|[<center>바로가기](./Solution/등산코스%20정하기)||
 
 ## Dijkstra's algorithm
 - 시작 정점부터 나머지 각 정점까지의 최단거리를 계산하는 알고리즘.
