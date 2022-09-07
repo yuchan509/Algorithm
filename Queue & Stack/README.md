@@ -13,3 +13,4 @@
 |09|[<center>요세푸스 문제 0](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[<center>바로가기](./Solution/요세푸스%20문제%200)||
 |10|[<center>괄호의 값](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[<center>바로가기](./Solution/괄호의%20값)||
 |11|[<center>두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[<center>바로가기](./Solution/두%20큐%20합%20같게%20만들기)||
+|12|[<center>크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[<center>바로가기](./Solution/크레인%20인형뽑기%20게임)||
