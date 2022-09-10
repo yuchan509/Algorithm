@@ -5,6 +5,8 @@
 |:---:|:---:|:---:|:---:|
 |01|[<center>바이러스](https://www.acmicpc.net/problem/2606)|[<center>바로가기](./Solution/바이러스)| |
 |02|[<center>섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|[<center>바로가기](./Solution/섬%20연결하기)| |
+|03|[<center>집합의 표현](https://www.acmicpc.net/problem/1717)|[<center>바로가기](./Solution/집합의%20표현)| |
+
 
 ## Disjoint Set (Union Find)
 - 두 집합(Set) 사이에 교집합 원소가 존재하지 않으며(공통으로 포함하는 원소가 없는 두 집합의 관계(서로소(Disjoint))), 모든 집합의 합집합은 전체집합인 자료구조.
