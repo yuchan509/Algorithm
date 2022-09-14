@@ -4,6 +4,7 @@
 # 알파벳 기준으로 정렬처리하고, 주어진 문자열 s 다음의 값을 return 하는 문제.
 
 from itertools import permutations 
+
 def solution(s):
     
     case = [''.join(i) for i in permutations(list(s), len(s))]
@@ -52,6 +53,20 @@ def solution(n, second, text):
 
     return ans
 
+# 보완한 효율적인 코드.
+def solution(n, second, text):
+    
+    ans = ''
+    s = '_' * n + text.replace(' ', '_')
+    idx = second % (n * 2)
+   
+    for _ in range(n):
+
+        idx = idx % (n * 2)
+        ans += s[idx]
+        idx += 1
+    
+    return ''.join(ans)
 
 # 3. bfs/dfs, flood fill 응용 문제
 # 0이 바다고, 1이 육지며, 각 사각형 크기의 둘레의 길이이 합을 구하는 문제.
@@ -88,9 +103,9 @@ def solution(maps):
                             visited[nx][ny] = 1
                             q.append([nx, ny])
 
-        # 특정 위치 주변으로 육지 분포(chk)를 확인 후 4 - chk를 빼주면,
-        # 그 만큼이 그 공간이 차지하는 둘레의 길이.
-        res += (4 - chk) 
+            # 특정 위치 주변으로 육지 분포(chk)를 확인 후 4 - chk를 빼주면,
+            # 그 만큼이 그 공간이 차지하는 둘레의 길이.
+            res += (4 - chk) 
 
         return res
     
