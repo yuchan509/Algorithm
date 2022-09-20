@@ -26,6 +26,7 @@
 |20|[<center>단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[<center>바로가기](./Solution/단어%20변환)|문자열 + BFS|
 |21|[<center>거울 설치](https://www.acmicpc.net/problem/2151)|[<center>바로가기](./Solution/거울%20설치)||
 |22|[<center>A - B](https://www.acmicpc.net/problem/16953)|[<center>바로가기](./Solution/A%20-%20B)||
+|23|[<center>4연산](https://www.acmicpc.net/problem/14395)|[<center>바로가기](./Solution/4연산)||
 
 ## Graph Algorithm
 #### 개념
