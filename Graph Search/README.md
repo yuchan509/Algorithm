@@ -28,7 +28,7 @@
 |22|[<center>A - B](https://www.acmicpc.net/problem/16953)|[<center>바로가기](./Solution/A%20-%20B)||
 |23|[<center>4연산](https://www.acmicpc.net/problem/14395)|[<center>바로가기](./Solution/4연산)||
 |24|[<center>결혼식](https://www.acmicpc.net/problem/5567)|[<center>바로가기](./Solution/결혼식)||
-
+|25|[<center>미로만들기](https://www.acmicpc.net/problem/2665)|[<center>바로가기](./Solution/미로만들기)||
 ## Graph Algorithm
 #### 개념
 - 그래프는 실제 세계의 현상이나 사물을 정점(Vertex) 또는 노드(Node)와 간선(Edge)로 표현.
