@@ -27,6 +27,7 @@
 |21|[<center>거울 설치](https://www.acmicpc.net/problem/2151)|[<center>바로가기](./Solution/거울%20설치)||
 |22|[<center>A - B](https://www.acmicpc.net/problem/16953)|[<center>바로가기](./Solution/A%20-%20B)||
 |23|[<center>4연산](https://www.acmicpc.net/problem/14395)|[<center>바로가기](./Solution/4연산)||
+|24|[<center>결혼식](https://www.acmicpc.net/problem/5567)|[<center>바로가기](./Solution/결혼식)||
 
 ## Graph Algorithm
 #### 개념
