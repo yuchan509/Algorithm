@@ -21,7 +21,7 @@
 |15|[<center>안전 영역](https://www.acmicpc.net/problem/2468)|[<center>바로가기](./Solution/안전%20영역)|Flood Fill|
 |16|[<center>단지번호붙이기](https://www.acmicpc.net/problem/2667)|[<center>바로가기](./Solution/단지번호붙이기)|Flood Fill|
 |17|[<center>섬의 개수](https://www.acmicpc.net/problem/4963)|[<center>바로가기](./Solution/섬의%20개수)|대각선 체크|
-|18|[<center>거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[<center>바로가기](./Solution/거리두기%20확인하기)||
+|18|[<center>거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[<center>바로가기](./Solution/거리두기%20확인하기)|맨해튼 거리|
 |19|[<center>미로](https://www.acmicpc.net/problem/24463)|[<center>바로가기](./Solution/미로)|역탐색|
 |20|[<center>단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[<center>바로가기](./Solution/단어%20변환)|문자열 + BFS|
 |21|[<center>거울 설치](https://www.acmicpc.net/problem/2151)|[<center>바로가기](./Solution/거울%20설치)||
