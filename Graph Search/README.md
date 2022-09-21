@@ -28,7 +28,7 @@
 |22|[<center>A - B](https://www.acmicpc.net/problem/16953)|[<center>바로가기](./Solution/A%20-%20B)||
 |23|[<center>4연산](https://www.acmicpc.net/problem/14395)|[<center>바로가기](./Solution/4연산)||
 |24|[<center>결혼식](https://www.acmicpc.net/problem/5567)|[<center>바로가기](./Solution/결혼식)||
-|25|[<center>미로만들기](https://www.acmicpc.net/problem/2665)|[<center>바로가기](./Solution/미로만들기)||
+|25|[<center>미로만들기](https://www.acmicpc.net/problem/2665)|[<center>바로가기](./Solution/미로만들기)| |
 |26|[<center>치즈](https://www.acmicpc.net/problem/2638)|[<center>바로가기](./Solution/치즈)||
 
 
