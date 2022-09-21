@@ -30,6 +30,7 @@
 |24|[<center>결혼식](https://www.acmicpc.net/problem/5567)|[<center>바로가기](./Solution/결혼식)||
 |25|[<center>미로만들기](https://www.acmicpc.net/problem/2665)|[<center>바로가기](./Solution/미로만들기)| 최소로 방해물(장벽)을 뚫고 지나가는 경로 |
 |26|[<center>치즈](https://www.acmicpc.net/problem/2638)|[<center>바로가기](./Solution/치즈)| 외부 탐색|
+|27|[<center>환승](https://www.acmicpc.net/problem/5214)|[<center>바로가기](./Solution/환승)| 새로운 노드 추가 응용|
 
 
 ## Graph Algorithm
