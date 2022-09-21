@@ -1,34 +1,31 @@
 import sys
-from collections import deque, defaultdict
 
-n, k, m = map(int, input().split())
-graph = defaultdict(list)
+r, c = map(int, input().split())
+arr = [sys.stdin.readline().strip() for _ in range(r)]
 
-for h in range(1, m + 1):
-    arr = list(map(int, sys.stdin.readline().split()))
-    for s in arr:
-        graph[s].append(n + h)
-        graph[n + h].append(s)
+d = [[1, 0], [0, 1], [-1, 0], [0, -1]]
 
 def bfs():
 
-    v = set([1])
-    q = deque([(1, 0)])
+    ans = 1
+    q = set()
+    q.add((0, 0, arr[0][0]))
 
-    while q:
-        x, cnt = q.popleft()
+    while q and len(q) != 26:
+        x, y, s = q.pop()
+        ans = max(ans, len(s))
 
-        if x == n:
-            ans = (cnt // 2) + 1
-            return ans
+        for i in d:
+            nx = x + i[0]
+            ny = y + i[-1]
 
-        for node in graph[x]:
-            if node not in v:
-                v.add(node)
-                q.append([node, cnt + 1])
-    return -1
+            if 0 <= nx < r and 0 <= ny < c and arr[nx][ny] not in s:
+                q.add((nx, ny, s + arr[nx][ny]))
+    return ans
 
 print(bfs())
+
+
 
 
 '''
