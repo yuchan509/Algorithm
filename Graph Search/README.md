@@ -32,6 +32,7 @@
 |26|[<center>치즈](https://www.acmicpc.net/problem/2638)|[<center>바로가기](./Solution/치즈)| 외부 탐색|
 |27|[<center>환승](https://www.acmicpc.net/problem/5214)|[<center>바로가기](./Solution/환승)| 새로운 노드 추가 응용|
 |28|[<center>알파벳](https://www.acmicpc.net/problem/1987)|[<center>바로가기](./Solution/알파벳)| 백트래킹, 길이 추가 |
+|29|[<center>이분 그래프](https://www.acmicpc.net/problem/1707)|[<center>바로가기](./Solution/이분%20그래프)| 이분 그래프 |
 
 ## Graph Algorithm
 #### 개념
