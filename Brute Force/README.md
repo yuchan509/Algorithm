@@ -7,5 +7,5 @@
 |02|[<center>피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[<center>바로가기](./Solution/피로도)| |
 |03|[<center>전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[<center>바로가기](./Solution/전화번호%20목록)| |
 |04|[<center>이장님 초대](https://www.acmicpc.net/problem/9237)|[<center>바로가기](./Solution/이장님%20초대)| |
-
+|05|[<center>주식](https://www.acmicpc.net/problem/11501)|[<center>바로가기](./Solution/주식)| |
 
