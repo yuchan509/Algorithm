@@ -8,7 +8,7 @@
 |03|[<center>집합의 표현](https://www.acmicpc.net/problem/1717)|[<center>바로가기](./Solution/집합의%20표현)| |
 |04|[<center>상근이의 여행](https://school.programmers.co.kr/learn/courses/30/lessons/9372)|[<center>바로가기](./Solution/상근이의%20여행)| |
 |05|[<center>최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[<center>바로가기](./Solution/최소%20스패닝%20트리)| |
-
+|06|[<center>사이클 게임](https://www.acmicpc.net/problem/20040)|[<center>바로가기](./Solution/사이클%20게임)| |
 
 
 ## Disjoint Set (Union Find)
