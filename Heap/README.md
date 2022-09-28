@@ -11,3 +11,4 @@
 |06|[<center>보석 도둑](https://www.acmicpc.net/problem/1202)|[<center>바로가기](./Solution/보석%20도둑)| |
 |07|[<center>강의실 배정](https://www.acmicpc.net/problem/11000)|[<center>바로가기](./Solution/강의실%20배정)| |
 |08|[<center>카드 정렬하기](https://www.acmicpc.net/problem/1715)|[<center>바로가기](./Solution/카드%20정렬하기)| |
+|09|[<center>절댓갑 힙](https://www.acmicpc.net/problem/11286)|[<center>바로가기](./Solution/절댓값%20힙)| |
