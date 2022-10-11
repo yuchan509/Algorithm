@@ -11,7 +11,7 @@
 |05|[불!](https://www.acmicpc.net/problem/4179)|[바로가기](./Solution/불!)|탈출 변환 문제| 
 |06|[양](https://www.acmicpc.net/problem/3184)|[바로가기](./Solution/양)||
 |07|[공주님을 구해라](https://www.acmicpc.net/problem/17836)|[바로가기](./Solution/공주님을%20구해라)|BFS + 조건 만족시 좌표값 거리 계산|
-|08|[중량 제한](https://www.acmicpc.net/problem/1939)|[<center>바로가기](./Solution/중량%20제한)|BFS + Binary or MST|
+|08|[중량 제한](https://www.acmicpc.net/problem/1939)|[바로가기](./Solution/중량%20제한)|BFS + Binary or MST|
 |09|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[바로가기](./Solution/벽%20부수고%20이동하기)|3D Array 방문 처리|
 |10|[미로 탐색](https://www.acmicpc.net/problem/2178)|[바로가기](./Solution/미로%20탐색)||
 |11|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[바로가기](./Solution/경주로%20건설)|Coner 처리|
