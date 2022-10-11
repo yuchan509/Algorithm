@@ -12,3 +12,4 @@
 |07|[강의실 배정](https://www.acmicpc.net/problem/11000)|[바로가기](./Solution/강의실%20배정)| |
 |08|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|[바로가기](./Solution/카드%20정렬하기)| |
 |09|[절댓갑 힙](https://www.acmicpc.net/problem/11286)|[바로가기](./Solution/절댓값%20힙)| |
+|10|[칠무해](https://www.acmicpc.net/problem/14729)|[바로가기](./Solution/칠무해)| |
