@@ -11,6 +11,6 @@
 |06|[주식](https://www.acmicpc.net/problem/11501)|[바로가기](./Solution/주식)| |
 |07|[크게 만들기](https://www.acmicpc.net/problem/2812)|[바로가기](./Solution/크게%20만들기)| |
 |08|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|[바로가기](./Solution/양궁대회)| 중복 조합 |
-|09|[유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)|[바로가기](./Solution/유전법칙)| 중복 순열|
+|09|[유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)|[바로가기](./Solution/유전법칙)| 중복 순열 |
 
 
