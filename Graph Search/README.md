@@ -4,36 +4,36 @@
 ## Graph Search
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[<center>게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[<center>바로가기](./Solution/게임%20맵%20최단거리)| |
-|02|[<center>토마토](https://www.acmicpc.net/problem/7576)|[<center>바로가기](./Solution/토마토)|동시 확산|
-|03|[<center>유기농 배추](https://www.acmicpc.net/problem/1012)|[<center>바로가기](./Solution/유기농%20배추)|토마토 유사 문제|
-|04|[<center>탈출](https://www.acmicpc.net/problem/3055)|[<center>바로가기](./Solution/탈출)|토마토 확장 사고 문제|
-|05|[<center>불!](https://www.acmicpc.net/problem/4179)|[<center>바로가기](./Solution/불!)|탈출 변환 문제| 
-|06|[<center>양](https://www.acmicpc.net/problem/3184)|[<center>바로가기](./Solution/양)||
-|07|[<center>공주님을 구해라](https://www.acmicpc.net/problem/17836)|[<center>바로가기](./Solution/공주님을%20구해라)|BFS + 조건 만족시 좌표값 거리 계산|
-|08|[<center>중량 제한](https://www.acmicpc.net/problem/1939)|[<center>바로가기](./Solution/중량%20제한)|BFS + Binary or MST|
-|09|[<center>벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[<center>바로가기](./Solution/벽%20부수고%20이동하기)|3D Array 방문 처리|
-|10|[<center>미로 탐색](https://www.acmicpc.net/problem/2178)|[<center>바로가기](./Solution/미로%20탐색)||
-|11|[<center>경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[<center>바로가기](./Solution/경주로%20건설)|Coner 처리|
-|12|[<center>Count Luck](https://www.hackerrank.com/challenges/count-luck/problem)|[<center>바로가기](./Solution/Count%20Luck)|Coner 처리 응용|
-|13|[<center>네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[<center>바로가기](./Solution/네트워크)|연결 노드 찾기|
-|14|[<center>연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[<center>바로가기](./Solution/연결%20요소의%20개수)|연결 노드 찾기|
-|15|[<center>안전 영역](https://www.acmicpc.net/problem/2468)|[<center>바로가기](./Solution/안전%20영역)|Flood Fill|
-|16|[<center>단지번호붙이기](https://www.acmicpc.net/problem/2667)|[<center>바로가기](./Solution/단지번호붙이기)|Flood Fill|
-|17|[<center>섬의 개수](https://www.acmicpc.net/problem/4963)|[<center>바로가기](./Solution/섬의%20개수)|대각선 체크|
-|18|[<center>거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[<center>바로가기](./Solution/거리두기%20확인하기)|맨해튼 거리|
-|19|[<center>미로](https://www.acmicpc.net/problem/24463)|[<center>바로가기](./Solution/미로)|역탐색|
-|20|[<center>단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[<center>바로가기](./Solution/단어%20변환)|문자열 + BFS|
-|21|[<center>거울 설치](https://www.acmicpc.net/problem/2151)|[<center>바로가기](./Solution/거울%20설치)||
-|22|[<center>A - B](https://www.acmicpc.net/problem/16953)|[<center>바로가기](./Solution/A%20-%20B)||
-|23|[<center>4연산](https://www.acmicpc.net/problem/14395)|[<center>바로가기](./Solution/4연산)|A - B 응용|
-|24|[<center>결혼식](https://www.acmicpc.net/problem/5567)|[<center>바로가기](./Solution/결혼식)||
-|25|[<center>미로만들기](https://www.acmicpc.net/problem/2665)|[<center>바로가기](./Solution/미로만들기)| 최소로 방해물(장벽)을 뚫고 지나가는 경로 |
-|26|[<center>치즈](https://www.acmicpc.net/problem/2638)|[<center>바로가기](./Solution/치즈)| 외부 탐색|
-|27|[<center>환승](https://www.acmicpc.net/problem/5214)|[<center>바로가기](./Solution/환승)| 새로운 노드 추가 응용|
-|28|[<center>알파벳](https://www.acmicpc.net/problem/1987)|[<center>바로가기](./Solution/알파벳)| 백트래킹, 길이 추가 |
-|29|[<center>이분 그래프](https://www.acmicpc.net/problem/1707)|[<center>바로가기](./Solution/이분%20그래프)| 이분 그래프 |
-|30|[<center>양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|[<center>바로가기](./Solution/양과%20늑대)| dfs/bfs  |
+|01|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[<center>바로가기](./Solution/게임%20맵%20최단거리)| |
+|02|[토마토](https://www.acmicpc.net/problem/7576)|[<center>바로가기](./Solution/토마토)|동시 확산|
+|03|[유기농 배추](https://www.acmicpc.net/problem/1012)|[<center>바로가기](./Solution/유기농%20배추)|토마토 유사 문제|
+|04|[탈출](https://www.acmicpc.net/problem/3055)|[<center>바로가기](./Solution/탈출)|토마토 확장 사고 문제|
+|05|[불!](https://www.acmicpc.net/problem/4179)|[<center>바로가기](./Solution/불!)|탈출 변환 문제| 
+|06|[양](https://www.acmicpc.net/problem/3184)|[<center>바로가기](./Solution/양)||
+|07|[공주님을 구해라](https://www.acmicpc.net/problem/17836)|[<center>바로가기](./Solution/공주님을%20구해라)|BFS + 조건 만족시 좌표값 거리 계산|
+|08|[중량 제한](https://www.acmicpc.net/problem/1939)|[<center>바로가기](./Solution/중량%20제한)|BFS + Binary or MST|
+|09|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[<center>바로가기](./Solution/벽%20부수고%20이동하기)|3D Array 방문 처리|
+|10|[미로 탐색](https://www.acmicpc.net/problem/2178)|[<center>바로가기](./Solution/미로%20탐색)||
+|11|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[<center>바로가기](./Solution/경주로%20건설)|Coner 처리|
+|12|[Count Luck](https://www.hackerrank.com/challenges/count-luck/problem)|[<center>바로가기](./Solution/Count%20Luck)|Coner 처리 응용|
+|13|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[<center>바로가기](./Solution/네트워크)|연결 노드 찾기|
+|14|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[<center>바로가기](./Solution/연결%20요소의%20개수)|연결 노드 찾기|
+|15|[안전 영역](https://www.acmicpc.net/problem/2468)|[<center>바로가기](./Solution/안전%20영역)|Flood Fill|
+|16|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[<center>바로가기](./Solution/단지번호붙이기)|Flood Fill|
+|17|[섬의 개수](https://www.acmicpc.net/problem/4963)|[<center>바로가기](./Solution/섬의%20개수)|대각선 체크|
+|18|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[<center>바로가기](./Solution/거리두기%20확인하기)|맨해튼 거리|
+|19|[미로](https://www.acmicpc.net/problem/24463)|[<center>바로가기](./Solution/미로)|역탐색|
+|20|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[<center>바로가기](./Solution/단어%20변환)|문자열 + BFS|
+|21|[거울 설치](https://www.acmicpc.net/problem/2151)|[<center>바로가기](./Solution/거울%20설치)||
+|22|[A - B](https://www.acmicpc.net/problem/16953)|[<center>바로가기](./Solution/A%20-%20B)||
+|23|[4연산](https://www.acmicpc.net/problem/14395)|[<center>바로가기](./Solution/4연산)|A - B 응용|
+|24|[결혼식](https://www.acmicpc.net/problem/5567)|[<center>바로가기](./Solution/결혼식)||
+|25|[미로만들기](https://www.acmicpc.net/problem/2665)|[<center>바로가기](./Solution/미로만들기)| 최소로 방해물(장벽)을 뚫고 지나가는 경로 |
+|26|[치즈](https://www.acmicpc.net/problem/2638)|[<center>바로가기](./Solution/치즈)| 외부 탐색|
+|27|[환승](https://www.acmicpc.net/problem/5214)|[<center>바로가기](./Solution/환승)| 새로운 노드 추가 응용|
+|28|[알파벳](https://www.acmicpc.net/problem/1987)|[<center>바로가기](./Solution/알파벳)| 백트래킹, 길이 추가 |
+|29|[이분 그래프](https://www.acmicpc.net/problem/1707)|[<center>바로가기](./Solution/이분%20그래프)| 이분 그래프 |
+|30|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|[<center>바로가기](./Solution/양과%20늑대)| dfs/bfs  |
 
 ## Graph Algorithm
 #### 개념
