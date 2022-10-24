@@ -5,7 +5,6 @@ if n % 7 in [0, 2]:
 else:
     print("SK")
 
-
 # Run.
 '''
 output : SK
