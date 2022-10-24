@@ -3,9 +3,9 @@
 ## Greedy
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[<center>ATM](https://www.acmicpc.net/problem/11399)|[<center>바로가기](./Solution/ATM)||
-|02|[<center>단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|[<center>바로가기](./Solution/단속카메라)||
-
+|01|[ATM](https://www.acmicpc.net/problem/11399)|[바로가기](./Solution/ATM)||
+|02|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|[바로가기](./Solution/단속카메라)||
+|03|[돌 게임 6](https://www.acmicpc.net/problem/9660)|[바로가기](./Solution/돌%20게임%206)||
 
 
 ## Greedy Algorithm 
