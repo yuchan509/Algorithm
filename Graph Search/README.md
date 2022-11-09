@@ -29,11 +29,13 @@
 |23|[4연산](https://www.acmicpc.net/problem/14395)|[바로가기](./Solution/4연산)|A - B 응용|
 |24|[결혼식](https://www.acmicpc.net/problem/5567)|[바로가기](./Solution/결혼식)||
 |25|[미로만들기](https://www.acmicpc.net/problem/2665)|[바로가기](./Solution/미로만들기)| 최소로 방해물(장벽)을 뚫고 지나가는 경로 |
-|26|[치즈](https://www.acmicpc.net/problem/2638)|[바로가기](./Solution/치즈)| 외부 탐색|
+|26|[치즈](https://www.acmicpc.net/problem/2638)|[바로가기](./Solution/치즈)| 외부 탐색 |
 |27|[환승](https://www.acmicpc.net/problem/5214)|[바로가기](./Solution/환승)| 새로운 노드 추가 응용|
 |28|[알파벳](https://www.acmicpc.net/problem/1987)|[바로가기](./Solution/알파벳)| 백트래킹, 길이 추가 |
 |29|[이분 그래프](https://www.acmicpc.net/problem/1707)|[바로가기](./Solution/이분%20그래프)| 이분 그래프 |
-|30|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|[바로가기](./Solution/양과%20늑대)| dfs/bfs  |
+|30|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|[바로가기](./Solution/양과%20늑대)| dfs/bfs or 백트래킹 |
+|31|[주차 시스템](https://level.goorm.io/exam/152115/%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%98%88%EC%84%A0-%EC%A3%BC%EC%B0%A8%EC%8B%9C%EC%8A%A4%ED%85%9C/quiz/1)|[바로가기](./Solution/주차%20시스템)| Flood Fill |
+|32|[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|[바로가기](./Solution/아이템%20줍기)| 공간 확장 + 테두리 길이 계산 |
 
 ## Graph Algorithm
 #### 개념
