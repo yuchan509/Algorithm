@@ -10,11 +10,11 @@ d = [[0, 1], [1, 0], [0, -1], [-1, 0]]
 
 def bfs(q):
 	result = set()
-	
+
 	while q:
 		x, y = q.popleft()
 		v[x][y] = 1
-	
+
 		for dx, dy in d:
 			nx = x + dx
 			ny = y + dy
