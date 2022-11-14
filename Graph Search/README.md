@@ -4,7 +4,7 @@
 ## Graph Search
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[바로가기](./Solution/게임%20맵%20최단거리)| |
+|01|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[바로가기](./Solution/게임%20맵%20최단거리)|  |
 |02|[토마토](https://www.acmicpc.net/problem/7576)|[바로가기](./Solution/토마토)|동시 확산|
 |03|[유기농 배추](https://www.acmicpc.net/problem/1012)|[바로가기](./Solution/유기농%20배추)|토마토 유사 문제|
 |04|[탈출](https://www.acmicpc.net/problem/3055)|[바로가기](./Solution/탈출)|토마토 확장 사고 문제|
