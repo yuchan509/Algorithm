@@ -1,17 +1,43 @@
 # Algorithm 
 ## Queue & Stack
-|<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
-|:---:|:---:|:---:|:---:|
-|01|[<center>같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|[<center>바로가기](./Solution/같은%20숫자는%20싫어)||
-|02|[<center>기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|[<center>바로가기](./Solution/기능개발)||
-|03|[<center>프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[<center>바로가기](./Solution/프린터)| |
-|04|[<center>다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[<center>바로가기](./Solution/다리를%20지나는%20트럭)||
-|05|[<center>주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[<center>바로가기](./Solution/주식가격)||
-|06|[<center>올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[<center>바로가기](./Solution/올바른%20괄호)||
-|07|[<center>카드2](https://www.acmicpc.net/problem/2164)|[<center>바로가기](./Solution/카드2)||
-|08|[<center>스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|[<center>바로가기](./Solution/스킬트리)||
-|09|[<center>요세푸스 문제 0](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[<center>바로가기](./Solution/요세푸스%20문제%200)||
-|10|[<center>괄호의 값](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[<center>바로가기](./Solution/괄호의%20값)||
-|11|[<center>두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[<center>바로가기](./Solution/두%20큐%20합%20같게%20만들기)||
-|12|[<center>크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[<center>바로가기](./Solution/크레인%20인형뽑기%20게임)||
-|13|[<center>스택 수열](https://www.acmicpc.net/problem/1874)|[<center>바로가기](./Solution/스택%20수열)| |
+|<center>NO|                                   <center>Workbooks                                    |            <center>Solution             |<center>Memo|
+|:---:|:--------------------------------------------------------------------------------------:|:---------------------------------------:|:---:|
+|01|      [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)      |    [바로가기](./Solution/같은%20숫자는%20싫어)     ||
+|02|        [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)         |         [바로가기](./Solution/기능개발)         ||
+|03|         [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)         |         [바로가기](./Solution/프린터)          | |
+|04|     [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)      |    [바로가기](./Solution/다리를%20지나는%20트럭)    ||
+|05|        [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)         |         [바로가기](./Solution/주식가격)         ||
+|06|   [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)    |       [바로가기](./Solution/올바른%20괄호)       ||
+|07|                  [카드2](https://www.acmicpc.net/problem/2164)                   |         [바로가기](./Solution/카드2)          ||
+|08|    [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)     |         [바로가기](./Solution/스킬트리)         ||
+|09|  [요세푸스 문제 0](https://school.programmers.co.kr/learn/courses/30/lessons/11866)  |    [바로가기](./Solution/요세푸스%20문제%200)     ||
+|10|    [괄호의 값](https://school.programmers.co.kr/learn/courses/30/lessons/11866)    |       [바로가기](./Solution/괄호의%20값)        ||
+|11|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)| [바로가기](./Solution/두%20큐%20합%20같게%20만들기) ||
+|12| [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) |   [바로가기](./Solution/크레인%20인형뽑기%20게임)    ||
+|13|                 [스택 수열](https://www.acmicpc.net/problem/1874)                  |       [바로가기](./Solution/스택%20수열)        | |
+
+
+## Stack
+- stack : LIFO(Last in, First Out) = FILO(First in, Last Out)
+- 기능
+  - **push()** : 데이터 스택에 쌓기 
+  - **pop()** 데이터 스택에 꺼내기 
+- 장점
+  - 구조가 단순, 구현이 쉬움.
+  - 데이터 저장 / 읽기 속도 빠름.
+
+- 단점
+  - 데이터 최대 개수 설정 필요. - 파이썬에서는 기본 1000개 까지 공간 사용 가능.
+  - 저장 공간의 낭비가 발생할 수 있음.
+
+   ``` python
+   # 재귀시 기본적인 공간을 늘리기 위한 방법.
+   import sys 
+   sys.setrecursionlimit(10 ** 6)
+   
+  stack = []
+   stack.append(1)
+   stack.append(2)
+  
+   stack.pop()
+   ```
