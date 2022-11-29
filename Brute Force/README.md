@@ -12,5 +12,5 @@
 |07|[크게 만들기](https://www.acmicpc.net/problem/2812)|[바로가기](./Solution/크게%20만들기)| |
 |08|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|[바로가기](./Solution/양궁대회)| 중복 조합 |
 |09|[유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)|[바로가기](./Solution/유전법칙)| 중복 순열 |
-
+|10|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|[바로가기](./Solution/혼자%20놀기의%20달인)| 완전 탐색 |
 
