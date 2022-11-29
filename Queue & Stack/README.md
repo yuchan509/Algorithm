@@ -2,7 +2,7 @@
 ## Queue & Stack
 |<center>NO|                                   <center>Workbooks                                    |            <center>Solution             |<center>Memo|
 |:---:|:--------------------------------------------------------------------------------------:|:---------------------------------------:|:---:|
-|01|      [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)      |    [바로가기](./Solution/같은%20숫자는%20싫어)     ||
+|01|      [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)      |    [바로가기](./Solution/같은%20숫자는%20싫어)     | |
 |02|        [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)         |         [바로가기](./Solution/기능개발)         ||
 |03|         [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)         |         [바로가기](./Solution/프린터)          | |
 |04|     [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)      |    [바로가기](./Solution/다리를%20지나는%20트럭)    ||
