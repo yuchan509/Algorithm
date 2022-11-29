@@ -10,7 +10,7 @@
 |06|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[바로가기](./Solution/올바른%20괄호)||
 |07|[카드2](https://www.acmicpc.net/problem/2164)|[바로가기](./Solution/카드2)||
 |08|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|[바로가기](./Solution/스킬트리)||
-|09|[요세푸스 문제 0](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[<center>바로가기](./Solution/요세푸스%20문제%200)||
+|09|[요세푸스 문제 0](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[바로가기](./Solution/요세푸스%20문제%200)||
 |10|[괄호의 값](https://school.programmers.co.kr/learn/courses/30/lessons/11866)|[바로가기](./Solution/괄호의%20값)||
 |11|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[바로가기](./Solution/두%20큐%20합%20같게%20만들기)||
 |12|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[바로가기](./Solution/크레인%20인형뽑기%20게임)||
