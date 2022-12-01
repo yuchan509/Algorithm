@@ -10,4 +10,4 @@
 |05|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[바로가기](./Solution/불량%20사용자)| 문자열 |
 |06|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|[바로가기](./Solution/마법사%20상어와%20파이어스톰)|구현 + BFS |
 |07|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[바로가기](./Solution/배열%20돌리기%204)|구현 + 순열|
-|08|[우박수열의 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|[바로가기](./Solution/우박수열의%20정적분)||
+|08|[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|[바로가기](./Solution/우박수열%20정적분)||
