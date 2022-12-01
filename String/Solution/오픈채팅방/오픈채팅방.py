@@ -1,21 +1,18 @@
 def solution(record):
-    
-    ans = []
-    update = {r.split()[1] : r.split()[-1] for r in record 
-             if r.split()[0] in ["Enter", "Change"]}     
+    answer = []
 
-    for r in record:
-        r = r.split()
-        if r[0] == "Enter":
-            ans.append(f"{update[r[1]]}´ÔÀÌ µé¾î¿Ô½À´Ï´Ù.")
+    data = list(map(lambda x: x.split(), record))
+    update = {r[1]: r[-1] for r in data if len(r) > 2}
 
-        if r[0] == "Leave":
-            ans.append(f"{update[r[1]]}´ÔÀÌ ³ª°¬½À´Ï´Ù.")
-            
-    return ans
+    for r in data:
+        if r[0].startswith("E"):
+            answer.append(f'{update.get(r[1])}ë‹˜ì´ ë“¤ì–´ì™”ìŠµë‹ˆë‹¤.')
 
+        elif r[0].startswith("L"):
+            answer.append(f'{update[r[1]]}ë‹˜ì´ ë‚˜ê°”ìŠµë‹ˆë‹¤.')
+    return answer
 # Run.
 '''
-output : ["Prodo´ÔÀÌ µé¾î¿Ô½À´Ï´Ù.", "Ryan´ÔÀÌ µé¾î¿Ô½À´Ï´Ù.", "Prodo´ÔÀÌ ³ª°¬½À´Ï´Ù.", "Prodo´ÔÀÌ µé¾î¿Ô½À´Ï´Ù."]
+output : ["Prodoë‹˜ì´ ë“¤ì–´ì™”ìŠµë‹ˆë‹¤.", "Ryanë‹˜ì´ ë“¤ì–´ì™”ìŠµë‹ˆë‹¤.", "Prodoë‹˜ì´ ë‚˜ê°”ìŠµë‹ˆë‹¤.", "Prodoë‹˜ì´ ë“¤ì–´ì™”ìŠµë‹ˆë‹¤."]
 record = ["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"]
 '''
