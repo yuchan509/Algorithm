@@ -13,4 +13,4 @@
 |08|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|[바로가기](./Solution/양궁대회)| 중복 조합 |
 |09|[유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)|[바로가기](./Solution/유전법칙)| 중복 순열 |
 |10|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|[바로가기](./Solution/혼자%20놀기의%20달인)| 완전 탐색 |
-
+|11|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[바로가기](./Solution/메뉴%20리뉴얼)| 완전 탐색 + 조합 |
