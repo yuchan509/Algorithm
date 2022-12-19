@@ -1,90 +1,90 @@
 import sys
 from collections import deque, defaultdict
-sys.setrecursionlimit(10 ** 6) # ìž¬ê·€ ê¹Šì´ ëŠ˜ë¦¬ê¸°(ìž¬ê·€ë¥¼ ì´ìš©í•œ dfs í™œìš©ì‹œ ê¹Šì´ ëŠ˜ë ¤ì£¼ê¸°, default : 1000ìœ¼ë¡œ ì„¤ì •.)
+sys.setrecursionlimit(10 ** 6) # Àç±Í ±íÀÌ ´Ã¸®±â(Àç±Í¸¦ ÀÌ¿ëÇÑ dfs È°¿ë½Ã ±íÀÌ ´Ã·ÁÁÖ±â, default : 1000À¸·Î ¼³Á¤.)
 input = sys.stdin.readline
 
 n, m = map(int, input().split())
 cards = list(map(int, input().split()))
 
-# ì–‘ë°©í–¥ ê·¸ëž˜í”„ ë§Œë“¤ê¸°.
+# ¾ç¹æÇâ ±×·¡ÇÁ ¸¸µé±â.
 graph = defaultdict(list)
 for i in range(1, n + 1):
-	graph[i]
+    graph[i]
 
 for _ in range(m):
-	a, b = map(int, input().split())
-	graph[a].append(b)
-	graph[b].append(a)
+    a, b = map(int, input().split())
+    graph[a].append(b)
+    graph[b].append(a)
 
 
-# queueë¥¼ í™œìš©í•œ bfs.
+# queue¸¦ È°¿ëÇÑ bfs.
 def bfs(start: int) -> int:
-	q = deque()
-	q.append(start)
-	v.add(start)
+    q = deque()
+    q.append(start)
+    v.add(start)
 
-	while q:
-		x = q.popleft()
-		a.append(x)
-		b.append(cards[x - 1])
+    while q:
+        x = q.popleft()
+        a.append(x)
+        b.append(cards[x - 1])
 
-		for node in graph[x]:
-			if node not in v:
-				v.add(node)
-				q.append(node)
-	a.sort()
-	b.sort()
-	res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
+        for node in graph[x]:
+            if node not in v:
+                v.add(node)
+                q.append(node)
+    a.sort()
+    b.sort()
+    res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
 
-	return res
+    return res
 
 
-# ë¬¸ì œ ì±„ì ìƒ >> pythonìœ¼ë¡œ ìž¬ê·€ í™œìš©ì‹œ runtime ë°œìƒ.
+# ¹®Á¦ Ã¤Á¡»ó >> pythonÀ¸·Î Àç±Í È°¿ë½Ã runtime ¹ß»ý.
 def dfs(x: int) -> int:
-	v.add(x)
-	a.append(x)
-	b.append(cards[x - 1])
+    v.add(x)
+    a.append(x)
+    b.append(cards[x - 1])
 
-	for node in graph[x]:
-		if node not in v:
-			dfs(node)
-	a.sort()
-	b.sort()
-	res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
+    for node in graph[x]:
+        if node not in v:
+            dfs(node)
+    a.sort()
+    b.sort()
+    res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
 
-	return res
+    return res
 
 
-# Stackì„ í™œìš©í•œ dfs >> pythonì—ì„œ pop() í™œì˜ì‹œ dequeê°€ listë³´ë‹¤ ì„±ëŠ¥ì´ ì¼ë°˜ì ìœ¼ë¡œ ë›°ì–´ë‚˜ë¯€ë¡œ ëŒ€ì‹ í•˜ì—¬ í™œìš©.
+# StackÀ» È°¿ëÇÑ dfs >> python¿¡¼­ pop() È°¿µ½Ã deque°¡ listº¸´Ù ¼º´ÉÀÌ ÀÏ¹ÝÀûÀ¸·Î ¶Ù¾î³ª¹Ç·Î ´ë½ÅÇÏ¿© È°¿ë.
 def dfsStack(start: int) -> int:
-	stack = deque()
-	stack.append(start)
+    stack = deque()
+    stack.append(start)
 
-	while stack:
-		x = stack.pop()
+    while stack:
+        x = stack.pop()
 
-		if x not in v:
-			v.add(x)
-			a.append(x)
-			b.append(cards[x - 1])
-			stack.extend(graph[x])
-	a.sort()
-	b.sort()
-	res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
+        if x not in v:
+            v.add(x)
+            a.append(x)
+            b.append(cards[x - 1])
+            stack.extend(graph[x])
+    a.sort()
+    b.sort()
+    res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
 
-	return res
+    return res
 
 ans = 0
 v = set()
 for node in graph:
-	if node not in v:
-		a, b = [], []
-		ans += bfs(node)
+    if node not in v:
+        a, b = [], []
+        ans += bfs(node)
 
 print(ans)
 
 
-# Union - Find í™œìš©.
+# Union - Find È°¿ë.
 import sys
 from collections import defaultdict
 input = sys.stdin.readline
@@ -93,32 +93,32 @@ n, m = map(int, input().split())
 cards = list(map(int, input().split()))
 
 def find(x):
-	if parent[x] != x:
-		parent[x] = find(parent[x])
-	return parent[x]
+    if parent[x] != x:
+        parent[x] = find(parent[x])
+    return parent[x]
 
 def union(a, b):
-	a, b = find(a), find(b)
-	if a < b:
-		parent[b] = a
-	else:
-		parent[a] = b
+    a, b = find(a), find(b)
+    if a < b:
+        parent[b] = a
+    else:
+        parent[a] = b
 
 parent = [i for i in range(n + 1)]
 
 for _ in range(m):
-	a, b = map(int, input().split())
-	union(a, b)
+    a, b = map(int, input().split())
+    union(a, b)
 
 a = defaultdict(list)
 b = defaultdict(list)
 for idx, value in enumerate(parent[1:]):
-	a[find(value)].append(idx + 1)
-	b[find(value)].append(cards[idx])
+    a[find(value)].append(idx + 1)
+    b[find(value)].append(cards[idx])
     
 ans = 0
 for key in a:
-	ans += sum([abs(x - y) for x, y in zip(a[key], sorted(b[key]))])
+    ans += sum([abs(x - y) for x, y in zip(a[key], sorted(b[key]))])
 
 print(ans)
 
