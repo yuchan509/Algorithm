@@ -9,79 +9,119 @@ cards = list(map(int, input().split()))
 # 양방향 그래프 만들기.
 graph = defaultdict(list)
 for i in range(1, n + 1):
-    graph[i]
+	graph[i]
 
 for _ in range(m):
-    a, b = map(int, input().split())
-    graph[a].append(b)
-    graph[b].append(a)
+	a, b = map(int, input().split())
+	graph[a].append(b)
+	graph[b].append(a)
 
 
 # queue를 활용한 bfs.
 def bfs(start: int) -> int:
-    q = deque()
-    q.append(start)
-    v.add(start)
+	q = deque()
+	q.append(start)
+	v.add(start)
 
-    while q:
-        x = q.popleft()
-        a.append(x)
-        b.append(cards[x - 1])
+	while q:
+		x = q.popleft()
+		a.append(x)
+		b.append(cards[x - 1])
 
-        for node in graph[x]:
-            if node not in v:
-                v.add(node)
-                q.append(node)
-    a.sort()
-    b.sort()
-    res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
+		for node in graph[x]:
+			if node not in v:
+				v.add(node)
+				q.append(node)
+	a.sort()
+	b.sort()
+	res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
 
-    return res
+	return res
 
 
 # 문제 채점상 >> python으로 재귀 활용시 runtime 발생.
 def dfs(x: int) -> int:
-    v.add(x)
-    a.append(x)
-    b.append(cards[x - 1])
+	v.add(x)
+	a.append(x)
+	b.append(cards[x - 1])
 
-    for node in graph[x]:
-        if node not in v:
-            dfs(node)
-    a.sort()
-    b.sort()
-    res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
+	for node in graph[x]:
+		if node not in v:
+			dfs(node)
+	a.sort()
+	b.sort()
+	res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
 
-    return res
+	return res
 
 
 # Stack을 활용한 dfs >> python에서 pop() 활영시 deque가 list보다 성능이 일반적으로 뛰어나므로 대신하여 활용.
 def dfsStack(start: int) -> int:
-    stack = deque()
-    stack.append(start)
+	stack = deque()
+	stack.append(start)
 
-    while stack:
-        x = stack.pop()
+	while stack:
+		x = stack.pop()
 
-        if x not in v:
-            v.add(x)
-            a.append(x)
-            b.append(cards[x - 1])
-            stack.extend(graph[x])
-    a.sort()
-    b.sort()
-    res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
+		if x not in v:
+			v.add(x)
+			a.append(x)
+			b.append(cards[x - 1])
+			stack.extend(graph[x])
+	a.sort()
+	b.sort()
+	res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
 
-    return res
+	return res
 
 ans = 0
 v = set()
 for node in graph:
-    if node not in v:
-        a, b = [], []
-        ans += bfs(node)
+	if node not in v:
+		a, b = [], []
+		ans += bfs(node)
 
 print(ans)
+
+
+# Union - Find 활용.
+import sys
+from collections import defaultdict
+input = sys.stdin.readline
+
+n, m = map(int, input().split())
+cards = list(map(int, input().split()))
+
+def find(x):
+	if parent[x] != x:
+		parent[x] = find(parent[x])
+	return parent[x]
+
+def union(a, b):
+	a, b = find(a), find(b)
+	if a < b:
+		parent[b] = a
+	else:
+		parent[a] = b
+
+parent = [i for i in range(n + 1)]
+
+for _ in range(m):
+	a, b = map(int, input().split())
+	union(a, b)
+
+a = defaultdict(list)
+b = defaultdict(list)
+for idx, value in enumerate(parent[1:]):
+	a[find(value)].append(idx + 1)
+	b[find(value)].append(cards[idx])
+    
+ans = 0
+for key in a:
+	ans += sum([abs(x - y) for x, y in zip(a[key], sorted(b[key]))])
+
+print(ans)
+
 
 '''
 output : 8
