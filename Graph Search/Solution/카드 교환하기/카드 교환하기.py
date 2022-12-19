@@ -1,6 +1,6 @@
 import sys
 from collections import deque, defaultdict
-sys.setrecursionlimit(10 ** 6)  # 재귀 깊이 늘리기(재귀를 이용한 dfs 활용시 깊이 늘려주기, default : 1000으로 설정.)
+sys.setrecursionlimit(10 ** 6) # 재귀 깊이 늘리기(재귀를 이용한 dfs 활용시 깊이 늘려주기, default : 1000으로 설정.)
 input = sys.stdin.readline
 
 n, m = map(int, input().split())
@@ -68,7 +68,6 @@ def dfsStack(start: int) -> int:
 			a.append(x)
 			b.append(cards[x - 1])
 			stack.extend(graph[x])
-
 	a.sort()
 	b.sort()
 	res = sum([abs(v1 - v2) for v1, v2 in zip(a, b)])
