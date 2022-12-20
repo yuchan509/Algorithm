@@ -1,5 +1,5 @@
 import sys
-sys.stdin.readline
+input = sys.stdin.readline
 
 n = int(input())
 s = list(map(int, input()))
