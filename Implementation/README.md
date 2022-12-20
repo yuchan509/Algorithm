@@ -11,3 +11,4 @@
 |06|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|[바로가기](./Solution/마법사%20상어와%20파이어스톰)|구현 + BFS |
 |07|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[바로가기](./Solution/배열%20돌리기%204)|구현 + 순열|
 |08|[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|[바로가기](./Solution/우박수열%20정적분)||
+|09|[폭탄 구현하기](https://level.goorm.io/exam/159666/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%A8%BC%EB%8D%B0%EC%9D%B4-%ED%8F%AD%ED%83%84-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/quiz/1)|[바로가기](./Solution/폭탄%20구현하기)||
