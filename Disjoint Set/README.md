@@ -3,12 +3,12 @@
 ## Disjoint Set
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[바이러스](https://www.acmicpc.net/problem/2606)|[<center>바로가기](./Solution/바이러스)| |
-|02|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|[<center>바로가기](./Solution/섬%20연결하기)| |
-|03|[집합의 표현](https://www.acmicpc.net/problem/1717)|[<center>바로가기](./Solution/집합의%20표현)| |
-|04|[상근이의 여행](https://school.programmers.co.kr/learn/courses/30/lessons/9372)|[<center>바로가기](./Solution/상근이의%20여행)| |
-|05|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[<center>바로가기](./Solution/최소%20스패닝%20트리)| |
-|06|[사이클 게임](https://www.acmicpc.net/problem/20040)|[<center>바로가기](./Solution/사이클%20게임)| |
+|01|[바이러스](https://www.acmicpc.net/problem/2606)|[바로가기](./Solution/바이러스)| |
+|02|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|[바로가기](./Solution/섬%20연결하기)| |
+|03|[집합의 표현](https://www.acmicpc.net/problem/1717)|[바로가기](./Solution/집합의%20표현)| |
+|04|[상근이의 여행](https://school.programmers.co.kr/learn/courses/30/lessons/9372)|[바로가기](./Solution/상근이의%20여행)| |
+|05|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[바로가기](./Solution/최소%20스패닝%20트리)| |
+|06|[사이클 게임](https://www.acmicpc.net/problem/20040)|[바로가기](./Solution/사이클%20게임)| |
 
 
 ## Disjoint Set (Union Find)
