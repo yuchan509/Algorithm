@@ -7,7 +7,7 @@
 |02|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|[바로가기](./Solution/단속카메라)||
 |03|[돌 게임 6](https://www.acmicpc.net/problem/9660)|[바로가기](./Solution/돌%20게임%206)||
 |04|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[바로가기](./Solution/귤%20고르기)||
-
+|05|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|[바로가기](./Solution/이모티콘%20할인행사)||
 ## Greedy Algorithm 
 #### 개념
 - 최적의 해에 가까운 값을 구하기 위해 이용.
