@@ -3,7 +3,7 @@
 ## Tree
 |<center>NO|<center>Workbooks|<center>Solution|<center>Memo|
 |:---:|:---:|:---:|:---:|
-|01|[�??�� �?까운 공통 조상](https://www.acmicpc.net/problem/3584)|[바로�?�?](./Solution/�??��%20�?까운%20공통%20조상)| |
+|01|[가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)|[ë°”ë¡œê°?ê¸?](./Solution/가장%20가까운%20공통%20조상)| |
 
 
 ## BST
