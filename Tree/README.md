@@ -6,7 +6,7 @@
 |01|[가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)|[바로가기](./Solution/가장%20가까운%20공통%20조상)| |
 
 
-## BST
+## BST(Binary Search Tree)
 ```python
 class node:
     def __init__(self, value):
@@ -51,8 +51,7 @@ class BinarySearchTree:
 
         return False
         
-        
-        
+ 
     root = node(1)
     BST = BinarySearchTree(root)
     BST.insert(2)
