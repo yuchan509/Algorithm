@@ -14,4 +14,4 @@
 |09|[폭탄 구현하기](https://level.goorm.io/exam/159666/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%A8%BC%EB%8D%B0%EC%9D%B4-%ED%8F%AD%ED%83%84-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/quiz/1)|[바로가기](./Solution/폭탄%20구현하기)||
 |10|[폴더 폰 자판](https://edu.goorm.io/learn/lecture/33428/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%A8%BC%EB%8D%B0%EC%9D%B4-%EC%B1%8C%EB%A6%B0%EC%A7%80-%ED%95%B4%EC%84%A4/lesson/1672665/3%EC%A3%BC%EC%B0%A8-%EB%B3%B5%EC%8A%B5%EB%AC%B8%EC%A0%9C-2-%ED%8F%B4%EB%8D%94-%ED%8F%B0-%EC%9E%90%ED%8C%90)|[바로가기](./Solution/폴더%20폰%20자판)||
 |11|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바로가기](./Solution/개인정보%20수집%20유효기간)|  |
-
+|12|[시소 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|[바로가기](./Solution/시소%20짝궁)|  |
