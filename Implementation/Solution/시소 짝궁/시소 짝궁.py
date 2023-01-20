@@ -10,7 +10,7 @@ def solution(weights):
 
     for w in count:
         pairs = set(map(lambda x: x * w, ratio)) & set(count)
-        p_sum = sum(map(lambda p : count[p] ,pairs))
+        p_sum = sum(map(lambda p : count[p], pairs))
 
         ans += count[w] * ((count[w] - 1) + p_sum) / 2
 
