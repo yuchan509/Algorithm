@@ -10,11 +10,7 @@ ans = 0
 length = len(belt)
 
 for i in range(length):
-    if k + i > length:
-        window = belt[i:length] + belt[:(k + i) % length]
-
-    else:
-        window = belt[i:k + i]
+    window = belt[i:length] + belt[:(k + i) % length] if k + i > length else belt[i:k + i]
 
     ans = max(ans, len(set(window + [c])))
 
