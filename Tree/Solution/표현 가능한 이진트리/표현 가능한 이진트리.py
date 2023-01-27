@@ -1,4 +1,4 @@
-def search(bit: str):
+def search(bit: str) -> None:
 
     global check
     if len(bit) == 1 or not check: return
@@ -6,19 +6,21 @@ def search(bit: str):
     node = len(bit) // 2
     l, r = bit[:node], bit[node + 1:]
     left = l[len(l) // 2]
-    right= r[len(r) // 2]
+    right = r[len(r) // 2]
 
     if bit[node] == '0' and '1' in [left, right]:
         check = False
+        return
 
     if check:
         search(l)
         search(r)
 
-def solution(numbers):
 
+def solution(numbers):
     ans = []
     for num in numbers:
+
         bit = bin(num)[2:]
 
         global check
@@ -31,8 +33,8 @@ def solution(numbers):
                 search(bit)
                 ans.append(1 if check else 0)
                 break
-    return ans
 
+    return ans
 
 # Run.
 '''
