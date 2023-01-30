@@ -12,9 +12,8 @@ def search(bit: str) -> None:
         check = False
         return
 
-    if check:
-        search(l)
-        search(r)
+    search(l)
+    search(r)
 
 
 def solution(numbers):
