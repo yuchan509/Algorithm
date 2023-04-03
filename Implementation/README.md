@@ -2,7 +2,7 @@
 
 ## Implementation
 |<center>NO|<center>Workbooks|<center>Solution| <center>Memo |
-|:---:|:---:|:---:|:------------:|
+|:--:|:---:|:---:|:------------:|
 |01|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|[바로가기](./Solution/삼각%20달팽이)|              |
 |02|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[바로가기](./Solution/로봇%20청소기)|              |
 |03|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[바로가기](./Solution/성격%20유형%20검사하기)|              |
@@ -16,3 +16,4 @@
 |11|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바로가기](./Solution/개인정보%20수집%20유효기간)|              |
 |12|[시소 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|[바로가기](./Solution/시소%20짝궁)|              |
 |13|[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|[바로가기](./Solution/미로%20탈출%20명령어)| 시뮬레이션, 백트래킹  |
+|14|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|[바로가기](./Solution/공원%20산책)| 시뮬레이션  |
