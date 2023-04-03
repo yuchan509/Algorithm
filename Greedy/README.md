@@ -10,7 +10,7 @@
 |05|  [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)  | [바로가기](./Solution/이모티콘%20할인행사) |         중복순열         |
 |06| [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |[바로가기](./Solution/택배%20배달과%20수거하기) | Greedy, Queue, Stack |
 |07|                  [선 긋기](https://www.acmicpc.net/problem/2170)                   |   [바로가기](./Solution/선%20긋기)    |       Sweeping       |
-
+|08|                  [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)                   |   [바로가기](./Solution/광물%20캐기)    |       Greedy    |
 
 
 ## Greedy Algorithm 
