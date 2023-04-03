@@ -1,7 +1,7 @@
 # Algorithm 
 ## Queue & Stack
 |<center>NO|                                   <center>Workbooks                                    |            <center>Solution             |<center>Memo|
-|:---:|:--------------------------------------------------------------------------------------:|:---------------------------------------:|:---:|
+|:--:|:--------------------------------------------------------------------------------------:|:---------------------------------------:|:---:|
 |01|      [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)      |    [바로가기](./Solution/같은%20숫자는%20싫어)     |  |
 |02|        [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)         |         [바로가기](./Solution/기능개발)         ||
 |03|         [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)         |         [바로가기](./Solution/프린터)          | |
@@ -16,6 +16,7 @@
 |12| [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) |   [바로가기](./Solution/크레인%20인형뽑기%20게임)    ||
 |13|                 [스택 수열](https://www.acmicpc.net/problem/1874)                  |       [바로가기](./Solution/스택%20수열)        | |
 |14|                 [체크 카드](https://edu.goorm.io/learn/lecture/33428/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%A8%BC%EB%8D%B0%EC%9D%B4-%EC%B1%8C%EB%A6%B0%EC%A7%80-%ED%95%B4%EC%84%A4/lesson/1679178/4%EC%A3%BC%EC%B0%A8-%EB%B3%B5%EC%8A%B5%EB%AC%B8%EC%A0%9C-1-%EC%B2%B4%ED%81%AC-%EC%B9%B4%EB%93%9C)                  |       [바로가기](./Solution/체크%20카드)        | |
+|15|                 [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)                  |       [바로가기](./Solution/과제%20진행하기)        | Queue|
 
 ## Stack
 - stack : LIFO(Last in, First Out) = FILO(First in, Last Out)
